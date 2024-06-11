@@ -1,8 +1,14 @@
-# React + Vite
+<h3>Password Handler</h3>
+A simple and secure password manager built with React. This application allows users to save and retrieve their login credentials, including site names, usernames, and passwords.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Add and store site names, usernames, and passwords.
+Securely manage and retrieve saved credentials.
+User-friendly interface for easy navigation and use.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack:
+React
+
+Live link:
+https://password-handler.netlify.app/
